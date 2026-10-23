@@ -1,0 +1,2 @@
+# -Python-Basics-list-tuple-set-dictionary-loops-function-numpy-lambda-
+🚀 Python Basics Practice Project  I’m happy to share my Python programming practice project, covering essential concepts such as:  ✅ Tuples, Sets, and Dictionaries ✅ For and While Loops ✅ Functions ✅ NumPy Arrays and Operations ✅ Lambda Functions  Through this project, I strengthened my Python fundamentals and problem-solving skills.
